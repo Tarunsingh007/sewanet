@@ -25,10 +25,9 @@ body,html,.row{
   border: 3px solid #004126;
   width:100px;
   height: 100px;
-  background: url("/images/logo.png");  
+  background: url("/images/LOGO.png");  
   background-position: center;
   background-size: cover;
-  background-repeat: no-repeat;
   border-radius: 50% 50%;
 }
 .navbar{
