@@ -30,6 +30,12 @@ body,html,.row{
   background-size: cover;
   border-radius: 50% 50%;
 }
+.icon{
+  background-color: #76c04e;
+}
+.icon:focus{
+  border:none;
+}
 .navbar{
   background-color:#ffffff!important;
   padding:0;
@@ -39,8 +45,8 @@ body,html,.row{
   padding-left:10px!important; 
 }
 .nav-link:hover{
-  border-top:1px solid #004126;
-  color: #004126 !important;
+  border-top:4px solid #76c04e;
+  color: #76c04e !important;
 }
 .carousel-inner img {
   width: 100%;
